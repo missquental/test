@@ -20,3 +20,4 @@ requests
 gdown
 ffprobe
 plotly
+beautifulsoup4
